@@ -17,3 +17,25 @@
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+    background-color: salmon;
+}
+
+img {
+    border: 8px solid;
+    border-radius: 25px;
+    border-color: white;
+}
+
+h2 {
+  text-indent: 160px;
+}
+h1 {
+  font-size: 60px; 
+}
