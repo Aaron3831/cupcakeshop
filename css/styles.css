@@ -1,0 +1,19 @@
+.menu table {
+  float: right;
+  margin-top: 0;
+  max-width: 495px;
+  width: 47.5%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
